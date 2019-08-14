@@ -39,4 +39,4 @@ The appearance of the [SfAccordion](https://help.syncfusion.com/cr/cref_files/xa
 {% endhighlight %}
 ```
 
-You can also refer our UG documentation to know more about [VSM]().
+You can also refer our UG documentation to know more about [VSM](https://help.syncfusion.com/xamarin/accordion/apperance#visual-state-manager).
