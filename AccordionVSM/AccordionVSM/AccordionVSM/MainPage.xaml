@@ -41,7 +41,7 @@
                         </VisualStateGroupList>
                     </VisualStateManager.VisualStateGroups>
                 </syncfusion:AccordionItem>
-                
+
                 <syncfusion:AccordionItem>
                     <syncfusion:AccordionItem.Header>
                         <Grid Padding="5,5,5,5">
@@ -82,30 +82,7 @@
                         </VisualStateGroupList>
                     </VisualStateManager.VisualStateGroups>
                 </syncfusion:AccordionItem>
-                
-                <!--<syncfusion:AccordionItem>
-                    <syncfusion:AccordionItem.Header>
-                        <Label TextColor="#495F6E" Text="Barbecue burger" HeightRequest="50" VerticalTextAlignment="Center"/>
-                    </syncfusion:AccordionItem.Header>
-                    <syncfusion:AccordionItem.Content>
-                        <Grid Padding="10,10,10,10" BackgroundColor="#FFFFFF">
-                            <Label TextColor="#303030" Text="Prepared with ground beef, mixed with onions and barbecue sauce, and then grilled. Once the meat has been turned once, barbecue sauce is spread on top and grilled until the sauce caramelizes." HeightRequest="50" VerticalTextAlignment="Center"/>
-                        </Grid>
-                    </syncfusion:AccordionItem.Content>
-                </syncfusion:AccordionItem>
-                
-                <syncfusion:AccordionItem>
-                    <syncfusion:AccordionItem.Header>
-                        <Label TextColor="#495F6E" Text="Chili burger" HeightRequest="50" VerticalTextAlignment="Center"/>
-                    </syncfusion:AccordionItem.Header>
-                    <syncfusion:AccordionItem.Content>
-                        <Grid Padding="10,10,10,10" BackgroundColor="#FFFFFF">
-                            <Label TextColor="#303030" Text="Consists of a hamburger, with the patty topped with chili con carne." HeightRequest="50" VerticalTextAlignment="Center"/>
-                        </Grid>
-                    </syncfusion:AccordionItem.Content>
-                </syncfusion:AccordionItem>-->
             </syncfusion:SfAccordion.Items>
         </syncfusion:SfAccordion>
     </ContentPage.Content>
-
 </ContentPage>
